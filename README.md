@@ -1,1 +1,1 @@
-# javaSpring_MPBank-theo-gtTCP
+# javaSwing_MPBank-theo-gtTCP
